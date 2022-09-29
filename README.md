@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vatsprajapati" /> </p>
 
-- 🔭 I’m currently working on **Android.**
+- 🔭 I’m currently working on **Android(Kotlin/Java) & Flutter.**
 
 - 🌱 I’m currently learning **Architecture Components,Testing on Android.**
-
-- 🤝 I’m looking for help with **native android development.**
 
 - 📫 How to reach me **vatsalprajapati2604@gmail.com**
 
